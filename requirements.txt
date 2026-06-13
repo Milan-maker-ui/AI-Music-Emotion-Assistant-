@@ -1,0 +1,8 @@
+﻿flask
+transformers
+torch
+langdetect
+deep-translator
+python-dotenv
+sentencepiece
+accelerate
