@@ -53,21 +53,6 @@ Stores all predictions in SQLite database.
 
 ---
 
-# 📦 Requirements
-
-```txt
-flask
-transformers
-torch
-langdetect
-deep-translator
-python-dotenv
-sentencepiece
-accelerate
-```
-
----
-
 # ▶️ Run Application
 
 ```bash
