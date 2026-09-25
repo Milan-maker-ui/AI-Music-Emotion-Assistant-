@@ -1,12 +1,8 @@
 let chartInstance = null;
 const form =
-document.getElementById(
-'emotionForm'
-);
+document.getElementById('emotionForm');
 
-form.addEventListener(
-'submit',
-async function(e)
+form.addEventListener('submit', async function(e)
 {
     e.preventDefault();
     const loading =
