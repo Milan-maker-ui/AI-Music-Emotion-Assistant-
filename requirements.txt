@@ -1,4 +1,4 @@
-﻿flask
+flask
 transformers
 torch
 langdetect
@@ -6,3 +6,5 @@ deep-translator
 python-dotenv
 sentencepiece
 accelerate
+gunicorn
+uvicorn
